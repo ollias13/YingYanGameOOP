@@ -1,0 +1,20 @@
+C:\Users\mrden\source\repos\YinYangGame\bin\Debug\YinYangGame.exe.config
+C:\Users\mrden\source\repos\YinYangGame\bin\Debug\YinYangGame.exe
+C:\Users\mrden\source\repos\YinYangGame\bin\Debug\YinYangGame.pdb
+C:\Users\mrden\source\repos\YinYangGame\obj\Debug\YinYangGame.csproj.AssemblyReference.cache
+C:\Users\mrden\source\repos\YinYangGame\obj\Debug\YinYangGame.MainForm.resources
+C:\Users\mrden\source\repos\YinYangGame\obj\Debug\YinYangGame.Properties.Resources.resources
+C:\Users\mrden\source\repos\YinYangGame\obj\Debug\YinYangGame.csproj.GenerateResource.cache
+C:\Users\mrden\source\repos\YinYangGame\obj\Debug\YinYangGame.csproj.CoreCompileInputs.cache
+C:\Users\mrden\source\repos\YinYangGame\obj\Debug\YinYangGame.exe
+C:\Users\mrden\source\repos\YinYangGame\obj\Debug\YinYangGame.pdb
+C:\Users\mrden\OneDrive\Рабочий стол\YinYangGame\bin\Debug\YinYangGame.exe.config
+C:\Users\mrden\OneDrive\Рабочий стол\YinYangGame\bin\Debug\YinYangGame.exe
+C:\Users\mrden\OneDrive\Рабочий стол\YinYangGame\bin\Debug\YinYangGame.pdb
+C:\Users\mrden\OneDrive\Рабочий стол\YinYangGame\obj\Debug\YinYangGame.csproj.AssemblyReference.cache
+C:\Users\mrden\OneDrive\Рабочий стол\YinYangGame\obj\Debug\YinYangGame.MainForm.resources
+C:\Users\mrden\OneDrive\Рабочий стол\YinYangGame\obj\Debug\YinYangGame.Properties.Resources.resources
+C:\Users\mrden\OneDrive\Рабочий стол\YinYangGame\obj\Debug\YinYangGame.csproj.GenerateResource.cache
+C:\Users\mrden\OneDrive\Рабочий стол\YinYangGame\obj\Debug\YinYangGame.csproj.CoreCompileInputs.cache
+C:\Users\mrden\OneDrive\Рабочий стол\YinYangGame\obj\Debug\YinYangGame.exe
+C:\Users\mrden\OneDrive\Рабочий стол\YinYangGame\obj\Debug\YinYangGame.pdb
